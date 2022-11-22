@@ -2,5 +2,5 @@
 - Me chamo Miguel Ascencio Nabarro Neto
 - Meu e-mail de contato é miguel.ascencionabarro.neto@escola.pr.gov.br
 - Estou interessado em aprender novas linguagens de programação
-- Atualemnete estou aprend a programar JavaScript
+- Atualemnete estou aprend a programar  JavaScript e Scratch
 - Tenho 15 anos  
